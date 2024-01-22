@@ -1,6 +1,6 @@
 # Sentimental-Analysis
 
-This comprehensive report encompasses two distinct projects: Text-Based Sentiment Analysis and Image-Based Sentiment Analysis. Each project focuses on employing machine learning techniques to analyze different 
+This Project encompasses two distinct projects: Text-Based Sentiment Analysis and Image-Based Sentiment Analysis. Each project focuses on employing machine learning techniques to analyze different 
 types of data—text and images—ultimately categorizing sentiment to provide valuable insights into public opinions and emotional states.
 
 Sentiment analysis of text data derived from sources like Twitter and Reddit. The objective is to classify text into sentiment categories: Negative, Neutral, and Positive. It has practical applications in understanding public emotions and opinions.
